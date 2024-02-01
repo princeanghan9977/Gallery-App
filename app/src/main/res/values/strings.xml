@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gallery App</string>
+
+    <string name="acc_video">Access videos</string>
+    <string name="acc_photo">Access photos</string>
+    <string name="acc_down">Access downloads</string>
+    <string name="acc_wp">Access Whatsapp</string>
+    <string name="per_granted">Permission Granted</string>
+    <string name="toast_permission">Permission Granted.</string>
+    <string name="per_1">This app require permission to use awesome feature. Grant them in app settings.</string>
+    <string name="per_title_1">Required Permission</string>
+    <string name="goto_set">Go To Setting</string>
+    <string name="all_per">Allow Permission</string>
+
+</resources>
